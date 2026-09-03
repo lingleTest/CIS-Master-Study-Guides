@@ -1,0 +1,8 @@
+# Word temporary/lock files (created while a .docx is open)
+~$*.docx
+~$*.doc
+
+# Common Windows/OneDrive clutter
+*.tmp
+Thumbs.db
+desktop.ini
